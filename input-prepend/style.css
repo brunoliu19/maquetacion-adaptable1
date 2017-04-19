@@ -1,0 +1,27 @@
+.input-wrapper{
+	border: 1px solid grey;
+	border-radius: 3px;
+	display:flex;
+	font-family: "lato" , sans-serif;
+}
+label{
+	background: #f4f3f1;
+	padding-left: 10px;
+	padding-right:10px ;
+	padding-top:10px;
+	padding-bottom:10px; 
+
+}
+input{
+	flex-grow: 2;
+}
+.input-wrapper2{
+	
+	border: 1px solid grey;
+	border-radius: 3px;
+	display:flex;
+	font-family: "lato" , sans-serif;
+	flex-direction: row-reverse;
+
+	}
+
