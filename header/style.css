@@ -1,0 +1,26 @@
+.nav{
+	background: #86969c;
+	color: #fff;
+	display: flex;
+	font-family: "lato" , sans-serif;
+	justify-content: space-between;
+	padding-bottom: 10px;
+	padding-top: 10px;
+	padding-left: 20px;
+	padding-right: 20px;
+}
+
+.main-nav,
+.secundary-nav{
+	display: flex;
+	list-style: none;
+	padding: 0;
+}
+
+.main-nav li,
+.secundary-nav li{
+padding-bottom: 10px;
+padding-left: 10px;
+padding-right:10px;
+padding-top:10px;
+}
